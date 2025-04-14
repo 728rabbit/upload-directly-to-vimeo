@@ -7,7 +7,7 @@ document.getElementById('videoFile').addEventListener('change', (event) => {
 
 
 async function uploadVideoToVimeo(file) {
-    const accessToken = 'be069a80112936b270f72d04149e7376';
+    const accessToken = 'your_access_token';
     const createUploadUrl = 'https://api.vimeo.com/me/videos';
 
     try {
