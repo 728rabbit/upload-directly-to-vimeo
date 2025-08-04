@@ -1,1 +1,1 @@
-# upload-directly-to-vimeo
+# Upload-directly-to-vimeo
